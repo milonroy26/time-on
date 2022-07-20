@@ -1,0 +1,10 @@
+body .mainContent{
+    background-image: url(pexels-miguel-á-padriñán-745365.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 250px;
+    text-align: center;
+    margin-top: 10%;
+    border-radius: 10px;
+}
